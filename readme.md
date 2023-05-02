@@ -1,9 +1,9 @@
-* Programa que calcula o Imc baseado em JavaScript com Node.js
+# Programa que calcula o Imc baseado em JavaScript com Node.js
 
-** Tecnologias Usadas
+## Tecnologias Usadas
 
-### JavaScript
+* JavaScript
 
-### NodeJs
+* NodeJs
 
-*Feito por Bruno Idalgo
+### Feito por Bruno Idalgo
