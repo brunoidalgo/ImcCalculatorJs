@@ -2,8 +2,8 @@
 
 ** Tecnologias Usadas
 
-# JavaScript
+### JavaScript
 
-# NodeJs
+### NodeJs
 
 *Feito por Bruno Idalgo
